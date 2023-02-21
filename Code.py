@@ -1,6 +1,6 @@
 
 
-Chodeos is a pedo
+Chodeos is a pedo and a nonce
 
 
 #Angular velocity (rad s-1)
