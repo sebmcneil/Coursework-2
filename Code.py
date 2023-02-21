@@ -3,6 +3,9 @@
 Chodeos is a pedo and a nonce
 
 
+
+
+
 #Angular velocity (rad s-1)
 
 Rw = [3.0, 6.5, 1.0]
